@@ -81,7 +81,7 @@ event manager applet siraloop
  action 4.0 cli command "end"
  end
 
-event manager run RemoveLoopbacks
+event manager run siraloop
 
 @@@@@@@ example4 @@@@@@@@@
 
